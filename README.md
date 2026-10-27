@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hey, I'm Daniel 👋
+# Hey, I'm Daniel
 
 ### Full-Stack Developer · AI Enthusiast · Problem Solver
 
@@ -27,12 +27,14 @@ const daniel = {
     currentlyExploring: ["Artificial Intelligence", "Algorithms"],
     mindset: "Build. Learn. Refactor. Repeat."
 };
+
+console.log("Always learning, always building.");
 ```
 
-- 💻 Building web applications with modern technologies.
-- 🧠 Exploring algorithms, AI, and software architecture.
-- 🛠️ Turning complex problems into practical solutions.
-- 🚀 Learning, experimenting, and improving every day.
+- Building web applications with modern technologies.
+- Exploring algorithms, AI, and software architecture.
+- Turning complex problems into practical solutions.
+- Learning, experimenting, and improving every day.
 
 ---
 
@@ -40,21 +42,21 @@ const daniel = {
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css" alt="JavaScript, TypeScript, PHP, HTML and CSS" />
 
-### Frontend
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="React, Vite, Tailwind CSS and Bootstrap" />
 
-### Backend & Database
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=laravel,mysql" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=laravel,mysql" alt="Laravel and MySQL" />
 
-### Tools
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Developer tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, VS Code and Postman" />
 
 </div>
 
@@ -66,24 +68,24 @@ const daniel = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 LeetCodeTrainer
+<h3>LeetCodeTrainer</h3>
 
 A coding practice platform focused on algorithmic problem-solving, learning progress, and personalized training.
 
-**Stack:** React · TypeScript · Laravel · MySQL
+**Tech stack:** React · TypeScript · Laravel · MySQL
 
-[Explore my repositories →](https://github.com/23DP2DVeli?tab=repositories)
+<a href="https://github.com/23DP2DVeli?tab=repositories">Explore repositories →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 MovieClub
+<h3>🎬 MovieClub</h3>
 
 A full-stack movie platform featuring film discovery, user accounts, ratings, comments, and favorites.
 
-**Stack:** React · Laravel · MySQL · OMDb API
+**Tech stack:** React · Laravel · MySQL · OMDb API
 
-[Explore my repositories →](https://github.com/23DP2DVeli?tab=repositories)
+<a href="https://github.com/23DP2DVeli?tab=repositories">Explore repositories →</a>
 
 </td>
 </tr>
@@ -97,9 +99,9 @@ A full-stack movie platform featuring film discovery, user accounts, ratings, co
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=23DP2DVeli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23DP2DVeli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23DP2DVeli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=23DP2DVeli&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
+<img width="95%" src="https://streak-stats.demolab.com/?user=23DP2DVeli&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
 
 </div>
 
@@ -121,7 +123,11 @@ A full-stack movie platform featuring film discovery, user accounts, ratings, co
 
 ### "First make it work. Then make it right. Then make it fast."
 
-**Thanks for stopping by!** ⭐
+**Thanks for stopping by!** 
+
+<a href="https://github.com/23DP2DVeli">
+  <img src="https://img.shields.io/badge/Let's_connect-Visit_my_GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Footer banner" />
 
